@@ -29,7 +29,7 @@ void consecutive(int arr[],int n){
     }
     }
     else{
-         cout<<"The array contains consecutive integers from "<<min<<" to "<<max<<endl;
+         cout<<"The array contain consecutive integers from "<<min<<" to "<<max<<endl;
     }
     
     
